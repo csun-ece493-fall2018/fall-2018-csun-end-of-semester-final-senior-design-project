@@ -1,0 +1,29 @@
+{
+  "name": "workstation3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "local-serial-connect.js",
+  "dependencies": {
+    "http": "^0.0.0",
+    "querystring": "^0.2.0",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2",
+    "serialport": "^7.1.0",
+    "string_decoder": "^1.1.1",
+    "ws": "^6.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csun-ece493-fall2018/local_app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/csun-ece493-fall2018/local_app/issues"
+  },
+  "homepage": "https://github.com/csun-ece493-fall2018/local_app#readme"
+}
